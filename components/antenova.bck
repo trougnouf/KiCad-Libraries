@@ -2,6 +2,8 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP M10478-A2
 D Antenova M10478-A2 GPS module
+K Antenova GPS
+F M10478-A2_12MD-0050-1-PS.pdf
 $ENDCMP
 #
 #End Doc Library
