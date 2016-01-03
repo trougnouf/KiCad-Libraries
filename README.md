@@ -16,8 +16,9 @@ Footprint libraries:
 
 	con-trougnouf:
 		USB A SMD male connector (eBay)
+		FPC/FFC 12-pin 0.5mm socket (eBay)
 		
 PCB designs:
 	
 	Connectors:
-		FPC12 to DIP adapter
+		FPC/FFC 12-pin 0.5mm socket to DIP adapter
